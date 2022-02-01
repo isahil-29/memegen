@@ -1,0 +1,23 @@
+*{
+    padding: 0px;
+    margin: 0px;
+
+}
+body{
+    background-color: rgb(252, 246, 238);
+}
+.container{
+    
+    
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+p{
+    padding: 10px;
+}
+#meme-canvas{
+    background-color: aliceblue;
+    width: 300px;
+}
